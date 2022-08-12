@@ -52,5 +52,5 @@ inner join Dueno on  Perro.dni_dueno = Dueno.dni_d where fech_h >2022-01-01 or f
 
 /*---Realice una consulta multitabla que arroje el nombre de todos los perros cuyos dueños se llaman Pedro---*/
 
-select id_perro,nom_p,fecha_nac,sex_p from Perro inner join Dueno on Perro.dni_dueno = Dueno.dni_d where nom_d = "guillermo" ;
+select id_perro,nom_p,fecha_nac,sex_p from Perro inner join Dueno on Perro.dni_dueno = Dueno.dni_d where nom_d = "pedro" ;
 

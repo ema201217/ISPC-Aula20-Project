@@ -1,4 +1,4 @@
-# Ejercicio numero 3 de Python
+# Ejercicio numero 3 de Python Astrada Nadia
 
 lista=[13,"Puppy","12/12/2012","Macho",123]
 for i in range(len(lista)):

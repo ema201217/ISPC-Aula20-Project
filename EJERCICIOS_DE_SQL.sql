@@ -1,5 +1,5 @@
 create database BPeluCanina;
-
+/*--------uso de la base de datos ----*/
 use BPeluCanina;
 
 create table DUENO (

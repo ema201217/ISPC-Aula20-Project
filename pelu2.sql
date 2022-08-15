@@ -1,7 +1,7 @@
 create database PeluCanina;
-use PeluCaninan 
+use PeluCanina 
 
-/*---Tabla Dueno---*/;
+/*---Tabla Dueno---*/
 
 create table Dueno(
 dni_d int,
